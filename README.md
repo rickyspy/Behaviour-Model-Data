@@ -10,4 +10,4 @@ contains the empirical and simulation trajectories of models
 
 3) SFM - Social force model
 
-4）Emprical data 
+4）Emprical data
