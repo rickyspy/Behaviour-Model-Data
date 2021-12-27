@@ -1,6 +1,6 @@
 # Behaviour-Model-Data
 
-trajectories-circle antipode exp
+Trajectories-circle antipode exp
 
 contains the empirical and simulation trajectories of models 
 
